@@ -1,2 +1,2 @@
 # Passagens
-Curso de WFC
+Curso de WCF
